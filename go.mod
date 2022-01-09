@@ -1,3 +1,3 @@
-module gitee.com/zone_45/golang
+module github.com/chen-45/golang
 
 go 1.17
